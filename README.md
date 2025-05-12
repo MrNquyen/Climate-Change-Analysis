@@ -9,7 +9,7 @@ Given 4 csv files include:
 
 ## Analysis
 - EDA and plotting trends across country and regions.
-- Feature Engineering (Drop and Filling missing values for each features, normalization, ...).
+- Data Preprocessing (Drop and Filling missing values for each features, normalization, ...).
 - Using hypothesis (statsmodel) for testing the interaction and similarity of trend in different regions and countries.
 - Predicting the future disaster by Features Selection base on hypothesis testing.
 
