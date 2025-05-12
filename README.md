@@ -12,3 +12,6 @@ Given 4 csv files include:
 - Feature Engineering (Drop and Filling missing values for each features, normalization, ...).
 - Using hypothesis (statsmodel) for testing the interaction and similarity of trend in different regions and countries.
 - Predicting the future disaster by Features Selection base on hypothesis testing.
+
+## Source
+- If you want to see the visualization (using Plotly), please access to this [*Notebook*](https://drive.google.com/file/d/1PKHFmKsBn0TFduKr0l_gEEOnMPsV457C/view?usp=sharing)
